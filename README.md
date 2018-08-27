@@ -1,7 +1,7 @@
 # DISCTRU MP
 My Machine Project for DISCTRU || A.Y 2017 - 2018. Term 2
 
-Subject: DISCTRU 
+Title: Battleshirls 
 
 Instructor: Shirley Chu
 
